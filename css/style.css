@@ -5,6 +5,10 @@ img {
     width: 50%;
 }
 
+h1, h3 {
+   text-align: center;
+}
+
 .box-content {
   padding: 20px;
 }
